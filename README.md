@@ -8,8 +8,7 @@
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+ - [Built with](#built-with)
 - [Author](#author)
 
 
@@ -20,7 +19,7 @@ This app provide information about all counties in the world. This is a practice
 
 ### Screenshot
 
-![](screenshot.png)
+![](World-Tour.png)
 
 
 ### Links
